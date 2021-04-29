@@ -1,0 +1,450 @@
+ID,Coffee_Belief,Coffee_Belief_Quant,LastCaff,LastCaff_Quant,Coffee_day,Tea_day,OtherCaff,OtherCaff_Quant,CafUse,RedBull,EnDrinks,FizDrinks,Alertness,Alcohol_week,Alcohol /24h,Smoker,Sleep,Rested,Age,Age_quant,Gender,Anxiety,Treatment,Caffeine,Task_Name,ResponseHI,ResponseSI,Dictator,CaffeineUnits
+423150,No,2,Less than 2 hours ago,1,2,8,Rarely / Never,3,Rarely / Never,0,0,0,38,4,Yes,No,7,Yes,55-64,5,Male,No,No,B,Giving Stingy,33,92,Stingy,10
+423151,No,2,Less than 2 hours ago,1,2,4,Rarely / Never,3,Rarely / Never,0,0,0,62,4,Yes,No,7,Yes,55-64,5,Female,No,No,B,Taking Fair,100,100,Fair,6
+423152,No,2,More than 2 hours ago,2,1,0,Weekly,2,Weekly,0,0,1,100,1,No,No,8,Yes,25-34,2,Female,No,No,A,Taking Stingy,100,100,Stingy,2
+423155,Yes,1,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,76,1,No,No,7,Yes,25-34,2,Male,No,No,A,Taking Fair,0,79,Fair,3
+423158,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,70,1,Yes,No,6,Yes,18-24,1,Male,No,No,A,Taking Stingy,50,50,Stingy,0
+423161,No,2,Less than 2 hours ago,1,2,0,Weekly,2,Weekly,0,0,1,65,1,Yes,No,6,Yes,35-44,3,Female,No,No,B,Giving Stingy,41,78,Stingy,3
+423162,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,60,1,No,No,7,No,35-44,3,Female,No,No,A,Giving Fair,0,0,Fair,2
+423164,No,2,Less than 2 hours ago,1,2,2,Daily,1,Daily,0,0,0,100,1,Yes,No,7,No,25-34,2,Male,No,No,B,Giving Fair,50,50,Fair,4
+423165,Yes,1,Less than 2 hours ago,1,3,3,Rarely / Never,3,Rarely / Never,0,0,0,75,5,Yes,Yes,8,No,35-44,3,Male,No,No,B,Taking Stingy,17,73,Stingy,6
+423167,No,2,Less than 2 hours ago,1,5,0,Rarely / Never,3,Rarely / Never,0,0,0,79,1,No,No,7,Yes,35-44,3,Female,Yes,No,B,Giving Stingy,50,100,Stingy,5
+423171,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,53,4,Yes,No,7,No,18-24,1,Female,No,No,B,Taking Fair,76,50,Fair,2
+423172,No,2,More than 2 hours ago,2,1,0,Daily,1,Daily,0,0,0,54,1,Yes,No,7,Yes,18-24,1,Female,No,No,B,Giving Stingy,0,77,Stingy,1
+423173,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,50,1,No,No,7,Yes,18-24,1,Female,No,No,B,Giving Fair,39,62,Fair,2
+423176,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,27,1,No,No,7,Yes,18-24,1,Female,Yes,Yes,B,Taking Fair,72,63,Fair,0
+423177,Yes,1,More than 2 hours ago,2,0,2,Weekly,2,Weekly,0,0,0,35,1,No,No,8,Yes,18-24,1,Female,Yes,No,A,Giving Fair,27,22,Fair,2
+423178,Yes,1,Less than 2 hours ago,1,6,0,Rarely / Never,3,Rarely / Never,0,0,0,50,3,No,No,8,Yes,35-44,3,Male,No,No,B,Giving Stingy,27,84,Stingy,6
+423179,Yes,1,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,83,1,No,No,7,Yes,18-24,1,Female,No,No,B,Taking Stingy,0,100,Stingy,2
+423180,No,2,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,36,3,Yes,No,6,No,75+,7,Male,No,No,B,Giving Stingy,34,69,Stingy,2
+423186,Yes,1,More than 2 hours ago,2,3,1,Daily,1,Daily,0,0,1,40,1,No,No,6,No,55-64,5,Male,No,Yes,A,Giving Stingy,100,50,Stingy,5
+423187,No,2,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,50,2,Yes,No,7,Yes,18-24,1,Male,No,No,A,Taking Stingy,2,100,Stingy,2
+423188,Yes,1,Less than 2 hours ago,1,2,1,Rarely / Never,3,Rarely / Never,0,0,0,29,1,No,No,6,Yes,25-34,2,Female,No,No,B,Giving Fair,27,28,Fair,3
+423190,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,70,1,No,No,7,No,18-24,1,Female,No,No,B,Taking Stingy,100,100,Stingy,2
+423191,No,2,More than 2 hours ago,2,6,3,Daily,1,Daily,0,0,3,8,1,No,No,6,No,45-54,4,Female,Yes,No,A,Giving Fair,19,100,Fair,12
+423192,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,26,1,No,No,7,No,18-24,1,Male,No,No,A,Taking Fair,0,100,Fair,2
+423193,Yes,1,More than 2 hours ago,2,1,1,Daily,1,Daily,0,0,1,61,5,Yes,Yes,7,No,25-34,2,Male,No,No,B,Taking Stingy,27,70,Stingy,3
+423194,No,2,More than 2 hours ago,2,1,0,Daily,1,Daily,0,0,0,66,3,Yes,No,7,No,25-34,2,Female,Yes,No,A,Taking Fair,29,76,Fair,1
+423195,Yes,1,More than 2 hours ago,2,1,5,Rarely / Never,3,Rarely / Never,0,0,0,58,1,No,No,7,No,45-54,4,Female,No,No,B,Giving Stingy,100,88,Stingy,6
+423196,No,2,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,46,2,No,No,7,No,18-24,1,Female,No,No,B,Giving Fair,22,30,Fair,1
+423198,Yes,1,More than 2 hours ago,2,0,0,Daily,1,Daily,0,0,1,0,2,No,No,7,No,45-54,4,Female,No,No,A,Giving Stingy,95,97,Stingy,1
+423200,No,2,Less than 2 hours ago,1,1,4,Rarely / Never,3,Rarely / Never,0,0,0,0,5,Yes,No,8,Yes,45-54,4,Female,No,No,A,Taking Stingy,90,91,Stingy,5
+423201,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,68,1,Yes,No,8,No,45-54,4,Male,Yes,No,B,Giving Fair,0,0,Fair,2
+423202,No,2,More than 2 hours ago,2,3,0,Daily,1,Daily,0,0,0,58,3,Yes,No,7,Yes,55-64,5,Female,No,Yes,A,Taking Fair,72,69,Fair,3
+423204,No,2,Less than 2 hours ago,1,1,1,Rarely / Never,3,Rarely / Never,0,0,0,76,2,Yes,No,8,Yes,18-24,1,Female,No,No,B,Giving Fair,26,30,Fair,2
+423205,Yes,1,Less than 2 hours ago,1,1,2,Rarely / Never,3,Rarely / Never,0,0,0,69,3,Yes,No,7,Yes,18-24,1,Male,No,No,A,Taking Stingy,29,74,Stingy,3
+423208,No,2,More than 2 hours ago,2,2,0,Daily,1,Daily,0,0,0,50,1,Yes,No,6,No,35-44,3,Female,No,No,B,Taking Fair,100,100,Fair,2
+423209,No,2,Less than 2 hours ago,1,1,5,Weekly,2,Weekly,0,0,3,51,3,Yes,No,5,No,18-24,1,Female,No,No,B,Taking Fair,72,74,Fair,9
+423210,Yes,1,Less than 2 hours ago,1,2,0,Daily,1,Daily,0,0,1,63,6,Yes,Yes,8,Yes,18-24,1,Male,No,No,B,Giving Stingy,56,93,Stingy,3
+423211,No,2,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,89,1,No,No,7,Yes,25-34,2,Female,No,No,A,Giving Fair,19,79,Fair,2
+423212,Yes,1,Less than 2 hours ago,1,3,0,Rarely / Never,3,Rarely / Never,0,0,0,61,1,No,No,8,Yes,25-34,2,Male,Yes,Yes,A,Giving Stingy,0,100,Stingy,3
+423214,No,2,Less than 2 hours ago,1,4,0,Rarely / Never,3,Rarely / Never,0,0,0,81,1,No,No,7,No,35-44,3,Female,No,Yes,A,Taking Fair,2,50,Fair,4
+423215,Yes,1,Less than 2 hours ago,1,2,1,Rarely / Never,3,Rarely / Never,0,0,0,77,2,No,No,8,No,45-54,4,Male,No,No,A,Taking Stingy,0,100,Stingy,3
+423217,Yes,1,More than 2 hours ago,2,4,0,Rarely / Never,3,Rarely / Never,0,0,0,50,5,No,No,7,No,25-34,2,Male,No,No,B,Giving Fair,50,50,Fair,4
+423222,No,2,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,69,1,No,No,6,Yes,45-54,4,Female,No,No,B,Giving Stingy,24,90,Stingy,3
+423223,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,25,1,No,No,8,Yes,25-34,2,Female,Yes,Yes,A,Giving Stingy,37,74,Stingy,2
+423224,No,2,Less than 2 hours ago,1,0,3,Weekly,2,Weekly,0,0,1,63,2,Yes,No,8,No,18-24,1,Female,No,No,A,Giving Fair,0,0,Fair,4
+423226,No,2,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,62,1,No,No,8,Yes,25-34,2,Female,Yes,Yes,B,Taking Fair,0,100,Fair,4
+423227,Yes,1,More than 2 hours ago,2,2,0,Weekly,2,Weekly,0,3,2,77,2,No,No,6,No,25-34,2,Female,No,No,B,Taking Stingy,0,100,Stingy,7
+423228,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,57,2,Yes,No,7,Yes,25-34,2,Male,No,Yes,A,Taking Fair,23,0,Fair,2
+423230,No,2,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,3,1,No,No,7,Yes,25-34,2,Female,No,No,B,Giving Fair,0,4,Fair,2
+423231,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,68,2,Yes,No,8,Yes,18-24,1,Female,No,No,B,Taking Stingy,31,65,Stingy,2
+423232,Yes,1,More than 2 hours ago,2,0,1,Weekly,2,Weekly,0,0,1,60,1,No,No,7,Yes,18-24,1,Female,No,No,A,Giving Fair,100,100,Fair,2
+423233,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,100,2,No,No,8,Yes,25-34,2,Female,No,No,B,Giving Stingy,0,0,Stingy,1
+423234,Yes,1,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,74,3,Yes,No,7,Yes,35-44,3,Male,No,No,A,Taking Fair,4,5,Fair,3
+423235,No,2,More than 2 hours ago,2,3,1,Rarely / Never,3,Rarely / Never,0,0,0,56,4,Yes,No,7,No,25-34,2,Male,No,No,A,Taking Stingy,50,100,Stingy,4
+423236,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,59,3,Yes,No,7,Yes,25-34,2,Male,No,No,B,Giving Stingy,20,83,Stingy,2
+423237,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,28,3,Yes,No,8,No,25-34,2,Female,No,No,A,Taking Stingy,14,100,Stingy,2
+423238,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,61,2,Yes,No,7,Yes,25-34,2,Female,Yes,No,B,Taking Fair,16,49,Fair,0
+423239,Yes,1,Less than 2 hours ago,1,3,0,Rarely / Never,3,Rarely / Never,0,0,0,68,2,Yes,No,7,Yes,25-34,2,Male,No,No,B,Giving Fair,33,33,Fair,3
+423240,No,2,More than 2 hours ago,2,0,1,Weekly,2,Weekly,0,0,4,0,5,Yes,No,6,No,55-64,5,Female,No,No,B,Giving Stingy,0,100,Stingy,5
+423241,Yes,1,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,71,4,Yes,No,6,No,25-34,2,Female,Yes,No,A,Taking Fair,19,22,Fair,3
+423242,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,70,1,No,No,7,Yes,25-34,2,Male,No,No,A,Taking Stingy,63,100,Stingy,2
+423243,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,76,1,No,No,9,Yes,25-34,2,Female,Yes,No,B,Giving Stingy,0,100,Stingy,1
+423244,No,2,More than 2 hours ago,2,5,2,Rarely / Never,3,Rarely / Never,0,0,0,33,1,No,Yes,5,No,35-44,3,Female,Yes,No,B,Taking Fair,28,84,Fair,7
+423246,No,2,More than 2 hours ago,2,2,0,Weekly,2,Weekly,0,1,2,73,4,Yes,No,6,Yes,18-24,1,Male,No,No,B,Taking Stingy,65,41,Stingy,5
+423247,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,4,34,2,Yes,No,8,No,18-24,1,Female,Yes,No,B,Giving Fair,78,23,Fair,4
+423248,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,5,1,No,No,7,No,25-34,2,Female,No,No,A,Giving Fair,98,50,Fair,0
+423249,No,2,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,29,1,No,No,8,Yes,25-34,2,Female,No,No,A,Giving Stingy,33,100,Stingy,1
+423252,Yes,1,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,61,6,No,No,7,No,25-34,2,Male,Yes,No,A,Giving Stingy,56,77,Stingy,3
+423253,Yes,1,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,32,6,Yes,No,8,Yes,25-34,2,Male,No,No,B,Taking Stingy,62,35,Stingy,4
+423258,No,2,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,62,1,Yes,No,6,Yes,25-34,2,Female,No,No,A,Giving Fair,75,24,Fair,2
+423260,Yes,1,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,68,2,No,No,6,Yes,25-34,2,Female,No,No,B,Taking Fair,30,29,Fair,1
+423262,No,2,More than 2 hours ago,2,1,1,Daily,1,Daily,0,0,0,61,3,Yes,No,8,Yes,25-34,2,Male,No,No,A,Taking Fair,40,80,Fair,2
+423268,No,2,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,95,6,Yes,Yes,6,Yes,25-34,2,Male,No,No,B,Giving Fair,0,56,Fair,3
+423269,No,2,Less than 2 hours ago,1,2,2,Weekly,2,Weekly,0,0,2,68,3,Yes,Yes,8,No,25-34,2,Female,No,No,B,Taking Stingy,50,100,Stingy,6
+423270,Yes,1,More than 2 hours ago,2,2,3,Rarely / Never,3,Rarely / Never,0,0,0,15,4,Yes,No,6,No,25-34,2,Female,No,No,A,Giving Stingy,51,48,Stingy,5
+423271,No,2,More than 2 hours ago,2,2,1,Daily,1,Daily,0,0,0,77,2,Yes,No,8,Yes,25-34,2,Female,No,No,A,Taking Fair,34,66,Fair,3
+423272,Yes,1,More than 2 hours ago,2,3,1,Rarely / Never,3,Rarely / Never,0,0,0,68,3,No,No,8,Yes,25-34,2,Female,Yes,No,A,Taking Stingy,100,100,Stingy,4
+423275,Yes,1,More than 2 hours ago,2,1,1,Daily,1,Daily,0,0,1,31,1,No,No,7,Yes,18-24,1,Male,No,No,B,Giving Stingy,0,55,Stingy,3
+423276,No,2,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,71,1,No,No,4,No,45-54,4,Female,No,No,B,Giving Fair,30,92,Fair,4
+423280,No,2,Less than 2 hours ago,1,6,6,Daily,1,Daily,0,0,0,60,1,No,No,5,Yes,55-64,5,Male,No,No,A,Giving Fair,21,76,Fair,12
+423281,Yes,1,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,100,1,No,No,7,No,18-24,1,Female,No,No,A,Taking Fair,15,69,Fair,2
+423282,No,2,More than 2 hours ago,2,1,0,Daily,1,Daily,0,0,0,50,2,Yes,No,8,Yes,35-44,3,Male,No,Yes,A,Giving Stingy,28,100,Stingy,1
+423283,Yes,1,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,84,2,Yes,No,8,Yes,25-34,2,Male,No,No,A,Taking Stingy,50,52,Stingy,3
+423284,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,0,1,Yes,No,8,Yes,25-34,2,Female,No,No,A,Taking Fair,0,0,Fair,0
+423285,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,77,1,No,No,8,Yes,25-34,2,Female,No,No,B,Giving Stingy,50,97,Stingy,2
+423287,No,2,Less than 2 hours ago,1,1,0,Rarely / Never,3,Rarely / Never,0,0,0,50,5,Yes,No,6,No,65-74,6,Male,No,No,B,Giving Fair,67,67,Fair,1
+423289,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,44,1,No,No,7,Yes,18-24,1,Male,No,No,A,Giving Fair,0,27,Fair,0
+423291,Yes,1,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,74,1,No,No,7,No,18-24,1,Female,No,Yes,A,Taking Stingy,61,77,Stingy,2
+423294,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,50,3,No,No,8,Yes,25-34,2,Male,No,No,B,Giving Stingy,50,50,Stingy,2
+423295,Yes,1,Less than 2 hours ago,1,3,1,Rarely / Never,3,Rarely / Never,0,0,0,79,2,Yes,Yes,7,Yes,18-24,1,Male,No,No,B,Taking Stingy,28,74,Stingy,4
+423297,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,22,5,Yes,No,8,No,18-24,1,Male,No,No,B,Taking Fair,0,100,Fair,1
+423298,Yes,1,More than 2 hours ago,2,1,2,Daily,1,Daily,0,0,0,85,1,No,No,6,Yes,35-44,3,Female,No,No,A,Giving Fair,50,75,Fair,3
+423299,No,2,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,60,3,No,No,7,Yes,18-24,1,Male,No,No,B,Giving Fair,0,23,Fair,3
+423303,Yes,1,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,63,5,Yes,No,7,No,18-24,1,Female,No,No,B,Taking Fair,28,100,Fair,3
+423304,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,72,4,Yes,No,7,No,18-24,1,Female,Yes,No,B,Taking Stingy,0,100,Stingy,2
+423305,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,77,4,Yes,No,7,No,18-24,1,Male,No,No,A,Giving Stingy,0,100,Stingy,1
+423537,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,70,1,No,No,7,No,18-24,1,Female,No,No,B,Giving Stingy,36,20,Stingy,2
+423538,Yes,1,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,71,2,Yes,No,7,No,25-34,2,Female,No,No,A,Giving Fair,21,78,Fair,3
+423541,Yes,1,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,58,2,No,No,7,Yes,25-34,2,Female,Yes,No,A,Taking Stingy,14,84,Stingy,4
+423546,Yes,1,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,100,4,Yes,No,7,No,25-34,2,Male,No,No,B,Taking Fair,50,49,Fair,3
+423548,Yes,1,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,74,4,Yes,No,6,Yes,45-54,4,Female,No,No,B,Giving Fair,21,27,Fair,3
+423549,Yes,1,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,63,5,Yes,No,6,No,45-54,4,Male,No,No,B,Taking Fair,0,100,Fair,4
+423550,Yes,1,More than 2 hours ago,2,3,0,Weekly,2,Weekly,0,0,4,70,4,Yes,No,7,Yes,25-34,2,Male,No,No,B,Giving Fair,6,79,Fair,7
+423551,Yes,1,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,71,1,Yes,No,6,No,25-34,2,Female,Yes,No,A,Giving Stingy,100,100,Stingy,3
+423554,No,2,Less than 2 hours ago,1,4,0,Rarely / Never,3,Rarely / Never,0,0,0,27,2,Yes,No,7,No,35-44,3,Female,No,No,B,Taking Stingy,74,68,Stingy,4
+423567,Yes,1,More than 2 hours ago,2,0,2,Daily,1,Daily,0,0,2,50,1,No,No,7,Yes,18-24,1,Male,No,No,A,Taking Stingy,22,41,Stingy,4
+423570,Yes,1,Less than 2 hours ago,1,1,2,Rarely / Never,3,Rarely / Never,0,0,0,72,1,No,No,7,No,25-34,2,Female,No,No,A,Giving Stingy,50,98,Stingy,3
+423571,Yes,1,Less than 2 hours ago,1,0,1,Rarely / Never,3,Rarely / Never,0,0,0,61,3,Yes,No,9,Yes,18-24,1,Female,Yes,No,A,Taking Fair,100,100,Fair,1
+423574,Yes,1,Less than 2 hours ago,1,1,0,Rarely / Never,3,Rarely / Never,0,0,0,50,1,Yes,No,8,Yes,18-24,1,Male,No,No,A,Giving Fair,33,62,Fair,1
+423575,Yes,1,More than 2 hours ago,2,1,1,Weekly,2,Weekly,0,0,1,74,3,No,No,7,No,25-34,2,Male,Yes,No,A,Taking Fair,3,97,Fair,3
+423577,No,2,Less than 2 hours ago,1,1,1,Daily,1,Daily,0,0,0,19,1,Yes,No,6,Yes,45-54,4,Female,No,No,A,Giving Fair,28,29,Fair,2
+423580,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,57,1,Yes,No,6,No,45-54,4,Male,Yes,Yes,A,Taking Stingy,50,50,Stingy,2
+423584,No,2,More than 2 hours ago,2,3,5,Rarely / Never,3,Rarely / Never,0,0,0,24,3,Yes,No,8,Yes,65-74,6,Male,Yes,No,A,Taking Fair,72,70,Fair,8
+423585,Yes,1,Less than 2 hours ago,1,3,1,Weekly,2,Weekly,0,0,2,65,2,No,No,8,Yes,18-24,1,Female,No,No,A,Giving Stingy,0,100,Stingy,6
+423586,Yes,1,Less than 2 hours ago,1,1,2,Rarely / Never,3,Rarely / Never,0,0,0,72,4,No,No,8,Yes,18-24,1,Female,No,No,B,Taking Stingy,61,100,Stingy,3
+423588,Yes,1,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,72,3,No,No,7,No,25-34,2,Female,Yes,No,A,Giving Fair,0,22,Fair,3
+423589,No,2,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,68,3,Yes,No,7,No,25-34,2,Female,No,No,B,Taking Fair,19,27,Fair,2
+423593,Yes,1,Less than 2 hours ago,1,2,2,Rarely / Never,3,Rarely / Never,0,0,0,32,1,No,No,8,Yes,18-24,1,Female,No,Yes,A,Giving Stingy,20,77,Stingy,4
+423594,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,68,1,No,No,7,Yes,18-24,1,Female,Yes,No,B,Giving Fair,0,17,Fair,2
+423599,No,2,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,65,3,Yes,No,7,No,25-34,2,Female,Yes,No,A,Taking Stingy,65,42,Stingy,3
+423601,No,2,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,70,3,Yes,No,6,Yes,45-54,4,Male,Yes,No,A,Taking Fair,0,100,Fair,3
+423602,No,2,Less than 2 hours ago,1,0,0,Rarely / Never,3,Rarely / Never,0,0,0,9,3,Yes,No,6,No,25-34,2,Male,No,No,A,Giving Fair,25,16,Fair,0
+423604,Yes,1,More than 2 hours ago,2,1,2,Weekly,2,Weekly,0,1,2,72,1,No,No,7,No,25-34,2,Female,No,No,A,Taking Stingy,29,77,Stingy,6
+423605,No,2,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,10,2,Yes,No,5,Yes,55-64,5,Female,No,No,B,Giving Fair,50,50,Fair,3
+423607,No,2,More than 2 hours ago,2,3,0,Weekly,2,Weekly,0,0,1,63,3,No,No,7,Yes,35-44,3,Female,No,No,A,Taking Stingy,100,100,Stingy,4
+423608,Yes,1,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,50,1,Yes,No,5,No,25-34,2,Female,No,No,A,Giving Stingy,73,81,Stingy,4
+423609,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,15,1,No,No,8,Yes,25-34,2,Male,No,No,B,Taking Fair,28,62,Fair,0
+423610,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,81,2,Yes,No,7,No,25-34,2,Male,No,No,A,Giving Stingy,0,73,Stingy,2
+423612,No,2,More than 2 hours ago,2,0,5,Rarely / Never,3,Rarely / Never,0,0,0,51,2,Yes,No,5,Yes,55-64,5,Female,Yes,No,B,Giving Fair,20,23,Fair,5
+423614,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,56,3,Yes,No,7,Yes,65-74,6,Female,No,Yes,B,Taking Stingy,0,99,Stingy,2
+423616,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,27,1,No,No,6,No,55-64,5,Female,No,No,B,Giving Stingy,8,0,Stingy,2
+423617,No,2,Less than 2 hours ago,1,2,0,Daily,1,Daily,0,1,0,67,1,No,No,7,Yes,25-34,2,Male,No,No,A,Taking Fair,10,6,Fair,3
+423618,Yes,1,Less than 2 hours ago,1,1,2,Weekly,2,Weekly,0,0,3,62,4,No,No,7,No,25-34,2,Male,No,No,A,Giving Fair,49,50,Fair,6
+423621,No,2,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,64,2,No,No,6,No,18-24,1,Female,No,No,A,Taking Stingy,24,76,Stingy,3
+423622,No,2,More than 2 hours ago,2,0,1,Weekly,2,Weekly,0,0,1,4,1,Yes,No,9,No,18-24,1,Female,No,No,B,Giving Stingy,0,27,Stingy,2
+423623,Yes,1,More than 2 hours ago,2,2,1,Weekly,2,Weekly,0,0,2,0,1,No,No,8,Yes,18-24,1,Male,No,No,A,Taking Fair,0,73,Fair,5
+423624,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,4,70,4,Yes,No,10,Yes,25-34,2,Male,Yes,No,B,Taking Stingy,15,65,Stingy,4
+423625,No,2,More than 2 hours ago,2,4,0,Rarely / Never,3,Rarely / Never,0,0,0,48,6,Yes,No,8,No,25-34,2,Male,No,No,A,Giving Fair,0,0,Fair,4
+423626,No,2,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,72,2,Yes,No,8,Yes,25-34,2,Female,No,No,A,Taking Fair,24,61,Fair,4
+423627,Yes,1,Less than 2 hours ago,1,3,0,Rarely / Never,3,Rarely / Never,0,0,0,74,6,Yes,No,5,Yes,35-44,3,Male,No,No,A,Taking Fair,0,2,Fair,3
+423628,Yes,1,More than 2 hours ago,2,5,1,Rarely / Never,3,Rarely / Never,0,0,0,67,2,Yes,No,8,Yes,75+,7,Male,No,No,A,Giving Stingy,25,79,Stingy,6
+423630,Yes,1,Less than 2 hours ago,1,2,2,Rarely / Never,3,Rarely / Never,0,0,0,68,3,No,No,8,No,25-34,2,Male,No,No,A,Giving Fair,26,73,Fair,4
+423632,Yes,1,Less than 2 hours ago,1,3,0,Rarely / Never,3,Rarely / Never,0,0,0,97,3,No,No,7,No,25-34,2,Female,No,No,B,Taking Stingy,50,99,Stingy,3
+423633,Yes,1,More than 2 hours ago,2,2,2,Weekly,2,Weekly,0,0,2,21,1,Yes,No,6,Yes,55-64,5,Female,No,No,A,Taking Fair,21,71,Fair,6
+423634,No,2,Less than 2 hours ago,1,2,2,Rarely / Never,3,Rarely / Never,0,0,0,60,5,Yes,No,5,Yes,55-64,5,Female,No,Yes,B,Taking Stingy,73,31,Stingy,4
+423635,No,2,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,2,75,3,Yes,No,7,Yes,45-54,4,Male,No,No,A,Giving Stingy,25,100,Stingy,2
+423638,No,2,More than 2 hours ago,2,0,4,Daily,1,Daily,0,0,0,66,1,No,No,8,No,25-34,2,Female,No,No,B,Giving Fair,14,13,Fair,4
+423640,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,58,1,No,No,8,Yes,18-24,1,Prefer not to say,No,No,B,Taking Fair,41,37,Fair,0
+423641,No,2,Less than 2 hours ago,1,0,1,Rarely / Never,3,Rarely / Never,0,0,0,14,1,Yes,No,8,Yes,55-64,5,Prefer not to say,Yes,No,A,Taking Fair,0,21,Fair,1
+423643,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,60,2,Yes,No,8,No,25-34,2,Female,Yes,No,A,Taking Stingy,14,86,Stingy,2
+423644,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,0,1,No,No,7,Yes,18-24,1,Male,No,No,A,Giving Fair,14,91,Fair,1
+423645,Yes,1,More than 2 hours ago,2,3,3,Rarely / Never,3,Rarely / Never,0,0,0,67,3,Yes,No,9,Yes,75+,7,Female,No,Yes,A,Giving Stingy,15,67,Stingy,6
+423646,Yes,1,More than 2 hours ago,2,0,1,Weekly,2,Weekly,0,0,1,66,6,Yes,No,7,No,25-34,2,Male,Yes,No,B,Giving Stingy,0,100,Stingy,2
+423647,No,2,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,13,1,No,No,8,No,18-24,1,Female,No,No,A,Taking Stingy,15,20,Stingy,2
+423648,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,50,1,No,No,7,Yes,25-34,2,Female,No,No,A,Giving Fair,23,23,Fair,0
+423651,No,2,Less than 2 hours ago,1,3,0,Rarely / Never,3,Rarely / Never,0,0,0,84,3,Yes,No,7,No,25-34,2,Male,No,No,A,Giving Fair,3,9,Fair,3
+423652,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,72,3,Yes,No,8,No,45-54,4,Female,No,No,B,Taking Stingy,11,77,Stingy,0
+423654,No,2,Less than 2 hours ago,1,4,0,Weekly,2,Weekly,0,0,1,54,1,No,No,8,Yes,45-54,4,Male,No,No,B,Giving Stingy,34,77,Stingy,5
+423655,Yes,1,More than 2 hours ago,2,1,4,Rarely / Never,3,Rarely / Never,0,0,0,61,1,Yes,No,7,Yes,45-54,4,Female,No,No,A,Taking Fair,50,50,Fair,5
+423656,No,2,Less than 2 hours ago,1,3,1,Rarely / Never,3,Rarely / Never,0,0,0,65,2,Yes,No,7,Yes,45-54,4,Male,No,No,A,Giving Stingy,50,52,Stingy,4
+423657,Yes,1,More than 2 hours ago,2,1,5,Rarely / Never,3,Rarely / Never,0,0,0,65,3,Yes,No,5,No,45-54,4,Male,No,No,A,Giving Fair,15,81,Fair,6
+423658,Yes,1,Less than 2 hours ago,1,1,0,Rarely / Never,3,Rarely / Never,0,0,0,69,1,No,No,7,No,25-34,2,Female,Yes,Yes,B,Taking Fair,18,61,Fair,1
+423659,Yes,1,Less than 2 hours ago,1,1,1,Daily,1,Daily,0,0,0,40,3,Yes,No,7,Yes,25-34,2,Male,No,No,A,Taking Stingy,70,69,Stingy,2
+423663,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,3,0,2,Yes,No,8,No,18-24,1,Female,No,No,A,Giving Fair,41,18,Fair,3
+423664,Yes,1,More than 2 hours ago,2,0,5,Rarely / Never,3,Rarely / Never,0,0,0,39,2,Yes,No,7,No,25-34,2,Female,No,No,A,Taking Fair,13,12,Fair,5
+423667,No,2,More than 2 hours ago,2,4,6,Rarely / Never,3,Rarely / Never,0,0,0,2,1,No,No,7,Yes,45-54,4,Male,No,No,A,Giving Stingy,50,50,Stingy,10
+423669,Yes,1,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,72,3,Yes,No,6,No,25-34,2,Male,No,No,A,Taking Fair,0,100,Fair,2
+423670,Yes,1,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,15,1,No,No,9,Yes,18-24,1,Female,Yes,No,A,Giving Stingy,89,92,Stingy,1
+423671,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,67,4,Yes,Yes,8,Yes,45-54,4,Female,No,No,A,Taking Stingy,88,13,Stingy,2
+423678,Yes,1,More than 2 hours ago,2,3,4,Daily,1,Daily,0,0,0,16,1,Yes,No,7,Yes,55-64,5,Female,No,Yes,B,Giving Fair,0,2,Fair,7
+423679,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,100,1,Yes,No,8,Yes,25-34,2,Prefer to self describe,Yes,Yes,B,Taking Fair,0,0,Fair,2
+423680,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,50,3,Yes,No,7,No,25-34,2,Female,No,No,B,Taking Fair,29,67,Fair,2
+423682,Yes,1,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,77,1,Yes,No,6,Yes,18-24,1,Male,No,No,A,Giving Fair,25,9,Fair,2
+423683,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,100,2,Yes,No,8,Yes,18-24,1,Female,Yes,No,A,Taking Stingy,0,100,Stingy,2
+423684,Yes,1,More than 2 hours ago,2,1,0,Weekly,2,Weekly,0,0,4,70,3,Yes,No,6,No,25-34,2,Female,No,No,B,Taking Fair,34,66,Fair,5
+423685,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,70,3,Yes,No,7,Yes,18-24,1,Female,No,No,B,Giving Fair,50,50,Fair,2
+423686,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,68,4,Yes,No,8,No,18-24,1,Male,No,No,A,Giving Stingy,100,100,Stingy,2
+423688,Yes,1,Less than 2 hours ago,1,1,1,Rarely / Never,3,Rarely / Never,0,0,0,74,2,No,No,6,Yes,18-24,1,Male,No,No,A,Taking Stingy,0,100,Stingy,2
+423689,No,2,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,100,4,Yes,No,7,Yes,25-34,2,Male,No,No,B,Giving Stingy,20,74,Stingy,2
+423690,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,37,3,Yes,No,8,Yes,25-34,2,Female,No,No,B,Giving Stingy,34,75,Stingy,1
+423691,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,50,1,Yes,No,6,No,25-34,2,Female,No,No,A,Taking Stingy,17,84,Stingy,1
+423692,No,2,More than 2 hours ago,2,2,3,Rarely / Never,3,Rarely / Never,0,0,0,80,1,No,No,7,Yes,25-34,2,Female,Yes,Yes,B,Taking Fair,22,32,Fair,5
+423694,Yes,1,More than 2 hours ago,2,1,4,Weekly,2,Weekly,0,0,1,60,3,Yes,No,7,Yes,35-44,3,Female,No,No,A,Giving Fair,34,19,Fair,6
+423696,Yes,1,Less than 2 hours ago,1,4,1,Rarely / Never,3,Rarely / Never,0,0,0,86,3,Yes,No,6,Yes,45-54,4,Male,No,No,A,Giving Stingy,100,100,Stingy,5
+423697,No,2,More than 2 hours ago,2,3,3,Rarely / Never,3,Rarely / Never,0,0,0,79,1,No,No,7,No,25-34,2,Male,No,No,B,Giving Fair,28,100,Fair,6
+423698,Yes,1,More than 2 hours ago,2,1,4,Rarely / Never,3,Rarely / Never,0,0,0,28,3,Yes,No,8,Yes,55-64,5,Female,No,No,A,Taking Stingy,80,26,Stingy,5
+423700,No,2,More than 2 hours ago,2,2,1,Weekly,2,Weekly,0,0,1,61,3,No,No,7,No,25-34,2,Male,No,No,A,Taking Fair,67,90,Fair,4
+423702,No,2,Less than 2 hours ago,1,0,3,Rarely / Never,3,Rarely / Never,0,0,0,59,2,No,No,7,Yes,25-34,2,Female,No,No,B,Giving Stingy,21,76,Stingy,3
+423703,Yes,1,Less than 2 hours ago,1,1,1,Daily,1,Daily,0,0,2,71,2,No,No,5,Yes,25-34,2,Male,No,No,A,Giving Fair,0,0,Fair,4
+426063,Yes,1,Less than 2 hours ago,1,3,3,Weekly,2,Weekly,0,0,2,71,3,No,No,7,No,45-54,4,Male,Yes,No,A,Taking Stingy,35,75,Stingy,8
+426064,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,50,1,No,No,8,Yes,35-44,3,Female,No,No,B,Giving Fair,12,50,Fair,2
+426065,No,2,Less than 2 hours ago,1,2,1,Rarely / Never,3,Rarely / Never,0,0,0,62,1,Yes,No,8,Yes,25-34,2,Female,No,No,B,Giving Stingy,3,62,Stingy,3
+426066,Yes,1,Less than 2 hours ago,1,0,2,Rarely / Never,3,Rarely / Never,0,0,0,62,2,Yes,No,7,No,25-34,2,Female,Yes,No,B,Taking Fair,7,7,Fair,2
+426078,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,40,4,Yes,No,7,Yes,25-34,2,Female,No,No,A,Taking Stingy,81,15,Stingy,0
+426079,No,2,Less than 2 hours ago,1,4,0,Weekly,2,Weekly,0,0,3,62,3,Yes,No,7,Yes,25-34,2,Male,No,No,A,Taking Fair,60,87,Fair,7
+426080,Yes,1,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,67,1,No,Yes,6,Yes,25-34,2,Female,No,No,A,Giving Fair,17,85,Fair,2
+426088,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,0,19,2,Yes,No,7,Yes,25-34,2,Female,No,No,B,Giving Stingy,0,100,Stingy,0
+426089,Yes,1,Less than 2 hours ago,1,2,1,Daily,1,Daily,0,1,1,74,1,No,No,8,Yes,18-24,1,Prefer to self describe,Yes,Yes,A,Taking Stingy,0,100,Stingy,5
+426090,Yes,1,Less than 2 hours ago,1,0,2,Daily,1,Daily,0,1,1,50,1,No,No,5,Yes,25-34,2,Prefer to self describe,No,Yes,B,Giving Fair,0,20,Fair,4
+426096,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,49,2,Yes,No,8,Yes,25-34,2,Male,No,No,B,Taking Stingy,40,91,Stingy,2
+426099,Yes,1,Less than 2 hours ago,1,2,3,Rarely / Never,3,Rarely / Never,0,0,0,74,3,Yes,No,6,Yes,25-34,2,Female,No,No,B,Giving Stingy,50,88,Stingy,5
+426100,Yes,1,More than 2 hours ago,2,3,1,Rarely / Never,3,Rarely / Never,0,0,0,58,4,Yes,No,7,Yes,25-34,2,Male,No,No,B,Taking Fair,0,100,Fair,4
+426101,No,2,Less than 2 hours ago,1,1,3,Weekly,2,Weekly,0,0,0,57,1,No,No,8,Yes,55-64,5,Female,Yes,No,B,Giving Fair,50,60,Fair,4
+426102,Yes,1,Less than 2 hours ago,1,5,3,Rarely / Never,3,Rarely / Never,0,0,0,38,1,No,Yes,5,No,55-64,5,Male,Yes,Yes,A,Giving Fair,71,72,Fair,8
+426103,No,2,More than 2 hours ago,2,2,0,Daily,1,Daily,0,1,0,56,2,No,No,8,Yes,25-34,2,Female,No,No,B,Taking Fair,50,100,Fair,3
+426105,No,2,More than 2 hours ago,2,0,0,Weekly,2,Weekly,2,0,0,3,1,No,No,7,No,25-34,2,Male,No,No,B,Giving Stingy,24,80,Stingy,2
+426107,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,64,1,No,No,7,Yes,18-24,1,Female,No,No,A,Giving Stingy,0,100,Stingy,0
+426108,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,75,1,No,No,7,Yes,18-24,1,Male,No,No,B,Taking Stingy,6,79,Stingy,0
+426109,No,2,Less than 2 hours ago,1,3,0,Rarely / Never,3,Rarely / Never,0,0,0,64,1,No,Yes,5,Yes,18-24,1,Female,Yes,No,B,Taking Stingy,91,69,Stingy,3
+426110,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,100,1,Yes,Yes,7,Yes,18-24,1,Female,No,No,B,Giving Fair,17,46,Fair,1
+426995,Yes,1,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,49,2,No,No,7,Yes,35-44,3,Male,No,No,B,Taking Fair,72,67,Fair,3
+427026,No,2,Less than 2 hours ago,1,3,2,Rarely / Never,3,Rarely / Never,0,0,0,78,1,No,No,6,No,18-24,1,Female,Yes,Yes,B,Giving Fair,0,68,Fair,5
+427028,No,2,Less than 2 hours ago,1,0,5,Rarely / Never,3,Rarely / Never,0,0,0,57,1,No,No,6,No,35-44,3,Female,No,Yes,A,Taking Stingy,66,68,Stingy,5
+427034,Yes,1,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,63,3,Yes,No,8,No,55-64,5,Female,No,No,B,Taking Fair,100,100,Fair,3
+427060,Yes,1,More than 2 hours ago,2,4,0,Rarely / Never,3,Rarely / Never,0,0,0,92,1,No,No,8,No,18-24,1,Female,Yes,No,A,Giving Stingy,67,85,Stingy,4
+427070,No,2,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,97,2,Yes,No,8,No,18-24,1,Male,No,No,A,Giving Fair,34,79,Fair,3
+427071,Yes,1,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,76,2,Yes,No,9,Yes,18-24,1,Female,No,No,B,Giving Fair,0,100,Fair,2
+427140,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,76,2,No,No,6,Yes,65-74,6,Female,No,No,A,Taking Fair,50,100,Fair,2
+427142,Yes,1,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,68,1,Yes,No,6,Yes,65-74,6,Male,No,Yes,A,Taking Stingy,0,0,Stingy,3
+427156,No,2,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,62,1,No,No,8,No,18-24,1,Female,Yes,No,A,Giving Stingy,12,100,Stingy,2
+427167,Yes,1,Less than 2 hours ago,1,0,0,Rarely / Never,3,Rarely / Never,0,0,0,77,1,No,No,7,Yes,18-24,1,Male,No,No,A,Taking Stingy,0,100,Stingy,0
+427169,No,2,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,0,76,1,No,No,7,No,18-24,1,Female,Yes,No,B,Giving Stingy,0,0,Stingy,0
+427184,No,2,More than 2 hours ago,2,2,0,Daily,1,Daily,0,0,0,67,2,No,No,7,Yes,25-34,2,Female,Yes,No,B,Giving Fair,50,50,Fair,2
+427186,No,2,Less than 2 hours ago,1,1,2,Rarely / Never,3,Rarely / Never,0,0,0,100,1,Yes,No,8,Yes,45-54,4,Female,No,Yes,B,Taking Fair,0,0,Fair,3
+427189,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,68,1,No,No,6,Yes,35-44,3,Male,No,No,B,Taking Fair,19,77,Fair,2
+427230,Yes,1,Less than 2 hours ago,1,3,2,Daily,1,Daily,0,0,0,100,2,Yes,No,6,No,25-34,2,Female,No,No,B,Giving Fair,15,14,Fair,5
+427254,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,54,1,No,No,8,Yes,18-24,1,Male,No,No,B,Taking Stingy,18,86,Stingy,0
+427268,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,54,1,Yes,No,6,Yes,18-24,1,Male,No,No,A,Giving Stingy,50,53,Stingy,0
+427269,Yes,1,More than 2 hours ago,2,1,2,Weekly,2,Weekly,0,1,2,58,3,No,No,7,No,18-24,1,Female,No,Yes,A,Taking Fair,0,52,Fair,6
+427301,Yes,1,Less than 2 hours ago,1,1,0,Weekly,2,Weekly,0,0,1,21,4,No,No,6,No,18-24,1,Male,No,No,A,Giving Fair,0,0,Fair,2
+427337,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,100,2,No,No,8,No,18-24,1,Male,No,No,A,Giving Stingy,0,100,Stingy,0
+427354,Yes,1,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,8,1,No,No,9,No,35-44,3,Female,Yes,Yes,A,Taking Fair,11,77,Fair,1
+427355,No,2,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,68,1,No,No,9,No,25-34,2,Female,No,No,B,Giving Stingy,100,100,Stingy,2
+427366,No,2,Less than 2 hours ago,1,2,1,Rarely / Never,3,Rarely / Never,0,0,0,22,1,Yes,No,7,No,45-54,4,Female,No,Yes,B,Giving Fair,0,7,Fair,3
+427369,Yes,1,More than 2 hours ago,2,1,1,Weekly,2,Weekly,0,0,1,77,3,No,No,8,Yes,18-24,1,Female,No,No,B,Giving Stingy,0,100,Stingy,3
+427371,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,61,3,Yes,No,7,Yes,45-54,4,Female,No,No,A,Taking Stingy,33,90,Stingy,2
+427373,Yes,1,Less than 2 hours ago,1,4,0,Rarely / Never,3,Rarely / Never,0,0,0,73,1,No,Yes,6,Yes,35-44,3,Male,No,No,A,Giving Fair,12,71,Fair,4
+427378,Yes,1,Less than 2 hours ago,1,2,4,Rarely / Never,3,Rarely / Never,0,0,0,12,1,No,No,5,Yes,65-74,6,Female,No,No,B,Taking Fair,84,66,Fair,6
+427380,Yes,1,Less than 2 hours ago,1,3,3,Rarely / Never,3,Rarely / Never,0,0,0,70,1,Yes,Yes,8,Yes,25-34,2,Female,No,No,B,Taking Fair,49,48,Fair,6
+427393,No,2,More than 2 hours ago,2,2,6,Rarely / Never,3,Rarely / Never,0,0,0,24,4,Yes,No,7,Yes,45-54,4,Male,No,Yes,B,Giving Fair,0,2,Fair,8
+427420,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,42,3,Yes,No,8,Yes,25-34,2,Male,Yes,No,B,Giving Stingy,38,27,Stingy,0
+427421,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,50,1,No,No,8,Yes,25-34,2,Female,Yes,No,B,Taking Stingy,26,73,Stingy,1
+430494,Yes,1,More than 2 hours ago,2,2,0,Daily,1,Daily,0,0,4,59,1,No,Yes,6,No,25-34,2,Female,Yes,No,A,Giving Stingy,0,97,Stingy,6
+430495,Yes,1,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,19,5,No,Yes,7,Yes,25-34,2,Male,No,No,B,Taking Fair,61,74,Fair,2
+430499,No,2,Less than 2 hours ago,1,1,7,Daily,1,Daily,0,0,0,65,3,No,No,4,No,35-44,3,Female,No,No,B,Taking Fair,50,100,Fair,8
+430500,Yes,1,More than 2 hours ago,2,4,0,Rarely / Never,3,Rarely / Never,0,0,0,72,4,No,No,6,No,45-54,4,Male,No,No,A,Giving Stingy,100,100,Stingy,4
+430501,No,2,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,50,1,No,No,8,No,25-34,2,Female,No,No,B,Giving Fair,50,50,Fair,1
+430502,Yes,1,More than 2 hours ago,2,1,0,Weekly,2,Weekly,0,1,3,57,4,Yes,No,7,No,18-24,1,Male,No,Yes,A,Taking Stingy,0,100,Stingy,5
+430509,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,77,6,Yes,No,6,No,25-34,2,Male,Yes,No,B,Giving Stingy,3,100,Stingy,0
+430510,Yes,1,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,55,4,Yes,No,6,Yes,25-34,2,Male,No,No,A,Taking Stingy,70,100,Stingy,4
+430511,Yes,1,More than 2 hours ago,2,3,0,Weekly,2,Weekly,0,1,0,100,2,Yes,No,7,Yes,25-34,2,Male,No,No,A,Taking Stingy,0,100,Stingy,4
+430512,Yes,1,More than 2 hours ago,2,1,0,Weekly,2,Weekly,0,0,2,67,4,No,No,8,Yes,25-34,2,Female,No,Yes,B,Taking Fair,25,100,Fair,3
+430513,Yes,1,More than 2 hours ago,2,1,0,Weekly,2,Weekly,0,0,1,66,2,Yes,No,8,Yes,25-34,2,Female,No,No,B,Giving Fair,62,0,Fair,2
+430515,No,2,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,14,2,Yes,No,6,Yes,45-54,4,Female,No,No,B,Giving Fair,50,50,Fair,3
+430516,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,16,3,Yes,No,7,Yes,45-54,4,Female,No,No,B,Giving Stingy,39,63,Stingy,2
+430518,Yes,1,More than 2 hours ago,2,3,3,Weekly,2,Weekly,0,0,2,66,4,Yes,No,6,Yes,45-54,4,Female,No,No,B,Taking Fair,23,71,Fair,8
+430520,Yes,1,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,14,1,Yes,No,8,Yes,45-54,4,Female,No,No,A,Giving Fair,50,50,Fair,3
+430522,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,51,2,Yes,No,8,Yes,55-64,5,Female,No,No,B,Giving Stingy,100,100,Stingy,0
+430523,Yes,1,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,67,4,No,No,7,Yes,35-44,3,Male,No,No,A,Taking Stingy,0,100,Stingy,4
+430525,No,2,Less than 2 hours ago,1,2,1,Rarely / Never,3,Rarely / Never,0,0,0,73,2,Yes,No,8,No,18-24,1,Female,Yes,No,B,Giving Fair,27,52,Fair,3
+430526,No,2,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,71,3,Yes,No,7,Yes,25-34,2,Female,No,No,A,Giving Stingy,0,100,Stingy,2
+430528,No,2,More than 2 hours ago,2,4,1,Rarely / Never,3,Rarely / Never,0,0,0,100,1,No,No,6,No,18-24,1,Female,No,No,A,Giving Fair,26,28,Fair,5
+430530,No,2,More than 2 hours ago,2,1,1,Daily,1,Daily,0,0,0,60,1,No,No,9,Yes,25-34,2,Male,No,No,A,Taking Stingy,2,100,Stingy,2
+430531,Yes,1,Less than 2 hours ago,1,3,0,Rarely / Never,3,Rarely / Never,0,0,0,0,1,No,No,8,Yes,25-34,2,Female,No,No,A,Taking Fair,0,0,Fair,3
+430532,Yes,1,Less than 2 hours ago,1,0,0,Weekly,2,Weekly,0,0,2,34,1,No,No,6,Yes,25-34,2,Female,No,No,A,Giving Stingy,22,69,Stingy,2
+430534,No,2,Less than 2 hours ago,1,1,0,Weekly,2,Weekly,0,0,0,61,1,No,No,7,Yes,25-34,2,Female,Yes,Yes,B,Taking Fair,18,81,Fair,1
+430535,No,2,More than 2 hours ago,2,1,0,Daily,1,Daily,0,0,2,66,5,Yes,No,5,Yes,25-34,2,Male,No,No,A,Giving Stingy,63,96,Stingy,3
+430536,No,2,More than 2 hours ago,2,3,2,Weekly,2,Weekly,0,0,0,63,2,Yes,No,7,Yes,35-44,3,Female,Yes,No,B,Giving Fair,34,33,Fair,5
+430537,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,33,1,No,No,7,No,25-34,2,Female,No,No,A,Giving Fair,0,100,Fair,1
+430538,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,1,4,85,1,No,No,8,Yes,25-34,2,Male,No,No,B,Taking Stingy,66,93,Stingy,5
+430539,Yes,1,More than 2 hours ago,2,0,6,Rarely / Never,3,Rarely / Never,0,0,0,21,4,Yes,No,8,No,35-44,3,Female,Yes,Yes,A,Giving Stingy,90,91,Stingy,6
+430540,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,16,2,Yes,No,7,No,35-44,3,Female,No,No,A,Giving Stingy,18,85,Stingy,2
+430541,No,2,More than 2 hours ago,2,4,2,Rarely / Never,3,Rarely / Never,0,0,0,68,5,Yes,No,7,Yes,18-24,1,Male,No,No,B,Taking Fair,27,100,Fair,6
+430542,No,2,Less than 2 hours ago,1,2,3,Rarely / Never,3,Rarely / Never,0,0,0,62,1,Yes,No,8,No,18-24,1,Female,No,No,B,Taking Stingy,64,100,Stingy,5
+430543,No,2,Less than 2 hours ago,1,1,2,Rarely / Never,3,Rarely / Never,0,0,0,62,1,No,No,7,Yes,18-24,1,Male,No,No,B,Taking Fair,25,75,Fair,3
+430544,No,2,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,62,4,Yes,No,8,Yes,18-24,1,Female,No,No,B,Giving Fair,38,74,Fair,4
+430546,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,56,1,Yes,No,6,Yes,18-24,1,Female,No,No,A,Taking Fair,14,92,Fair,2
+430547,No,2,Less than 2 hours ago,1,2,4,Weekly,2,Weekly,0,0,1,0,4,No,No,7,No,18-24,1,Female,No,No,B,Taking Stingy,73,74,Stingy,7
+430549,Yes,1,Less than 2 hours ago,1,5,3,Rarely / Never,3,Rarely / Never,0,0,0,38,3,No,No,7,Yes,18-24,1,Female,No,No,A,Giving Stingy,34,63,Stingy,8
+430550,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,63,1,No,No,10,Yes,25-34,2,Female,No,No,B,Giving Fair,2,50,Fair,0
+430551,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,74,1,No,No,8,No,35-44,3,Male,Yes,No,A,Taking Fair,0,32,Fair,0
+430552,No,2,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,85,2,Yes,No,6,Yes,18-24,1,Female,No,No,B,Giving Stingy,33,82,Stingy,3
+430553,Yes,1,More than 2 hours ago,2,2,0,Weekly,2,Weekly,0,0,2,68,5,Yes,No,7,Yes,25-34,2,Male,No,No,B,Taking Stingy,42,95,Stingy,4
+430554,Yes,1,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,65,4,Yes,Yes,8,Yes,25-34,2,Female,No,Yes,B,Giving Stingy,31,100,Stingy,4
+430556,Yes,1,More than 2 hours ago,2,2,0,Daily,1,Daily,0,0,0,62,3,Yes,No,7,Yes,25-34,2,Male,No,No,B,Taking Fair,0,65,Fair,2
+430561,No,2,More than 2 hours ago,2,3,3,Rarely / Never,3,Rarely / Never,0,0,0,79,2,No,Yes,7,No,18-24,1,Male,Yes,No,A,Taking Stingy,81,100,Stingy,6
+430562,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,100,3,Yes,No,8,Yes,18-24,1,Female,Yes,No,B,Giving Fair,28,27,Fair,2
+430563,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,1,50,2,Yes,No,7,Yes,18-24,1,Male,No,No,A,Giving Stingy,0,100,Stingy,1
+430564,No,2,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,59,1,Yes,No,8,Yes,18-24,1,Female,No,No,B,Taking Stingy,19,73,Stingy,4
+430565,No,2,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,59,2,Yes,No,7,Yes,25-34,2,Male,No,Yes,B,Taking Fair,0,18,Fair,2
+430567,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,0,5,Yes,No,7,No,35-44,3,Male,No,No,A,Taking Fair,0,100,Fair,2
+430569,No,2,Less than 2 hours ago,1,2,3,Rarely / Never,3,Rarely / Never,0,0,0,67,5,Yes,No,6,Yes,18-24,1,Male,Yes,No,A,Giving Fair,0,0,Fair,5
+430572,Yes,1,More than 2 hours ago,2,1,5,Rarely / Never,3,Rarely / Never,0,0,0,65,4,No,No,8,No,25-34,2,Female,No,No,B,Giving Stingy,8,100,Stingy,6
+430576,No,2,More than 2 hours ago,2,1,3,Weekly,2,Weekly,0,0,2,75,2,Yes,No,7,No,18-24,1,Female,Yes,No,B,Taking Stingy,100,0,Stingy,6
+430584,No,2,More than 2 hours ago,2,0,1,Weekly,2,Weekly,0,0,1,60,2,No,No,8,Yes,25-34,2,Female,Yes,Yes,A,Giving Stingy,12,87,Stingy,2
+430585,Yes,1,Less than 2 hours ago,1,3,1,Rarely / Never,3,Rarely / Never,0,0,0,59,3,Yes,Yes,8,Yes,25-34,2,Male,No,No,A,Taking Fair,67,68,Fair,4
+430588,No,2,More than 2 hours ago,2,2,2,Weekly,2,Weekly,0,0,0,65,2,Yes,No,7,Yes,55-64,5,Male,No,No,B,Giving Fair,50,50,Fair,4
+430592,No,2,More than 2 hours ago,2,0,2,Weekly,2,Weekly,0,0,0,4,2,Yes,No,7,Yes,18-24,1,Female,No,No,B,Taking Stingy,5,89,Stingy,2
+430593,Yes,1,Less than 2 hours ago,1,1,1,Rarely / Never,3,Rarely / Never,0,0,0,54,2,Yes,No,8,Yes,18-24,1,Male,No,No,B,Giving Fair,39,31,Fair,2
+430595,No,2,Less than 2 hours ago,1,1,2,Rarely / Never,3,Rarely / Never,0,0,0,89,2,Yes,No,7,Yes,18-24,1,Female,No,No,B,Giving Stingy,0,91,Stingy,3
+430603,No,2,More than 2 hours ago,2,8,0,Rarely / Never,3,Rarely / Never,0,0,0,84,4,Yes,No,7,Yes,35-44,3,Female,No,No,B,Giving Fair,24,50,Fair,8
+430605,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,68,1,Yes,No,7,Yes,35-44,3,Male,No,No,A,Taking Stingy,100,100,Stingy,1
+430606,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,50,2,Yes,No,6,No,25-34,2,Female,Yes,Yes,B,Taking Fair,23,70,Fair,1
+430607,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,60,1,No,No,7,No,18-24,1,Female,Yes,No,B,Giving Stingy,22,79,Stingy,2
+430615,No,2,Less than 2 hours ago,1,2,1,Rarely / Never,3,Rarely / Never,0,0,0,71,3,No,No,7,Yes,25-34,2,Female,No,No,B,Taking Fair,24,69,Fair,3
+430616,No,2,Less than 2 hours ago,1,3,3,Rarely / Never,3,Rarely / Never,0,0,0,50,3,Yes,No,8,Yes,25-34,2,Female,No,No,B,Giving Fair,50,50,Fair,6
+430618,No,2,More than 2 hours ago,2,2,2,Daily,1,Daily,0,0,0,69,1,No,No,7,Yes,25-34,2,Female,No,No,A,Taking Stingy,9,98,Stingy,4
+430623,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,2,63,1,Yes,No,6,Yes,25-34,2,Male,No,No,A,Taking Stingy,89,75,Stingy,2
+430624,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,73,4,Yes,No,7,Yes,25-34,2,Male,No,No,B,Giving Fair,35,59,Fair,2
+430627,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,93,3,Yes,Yes,8,Yes,25-34,2,Female,Yes,No,B,Giving Stingy,50,51,Stingy,2
+430628,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,80,2,Yes,No,7,No,25-34,2,Female,No,No,A,Taking Fair,0,29,Fair,2
+430629,No,2,More than 2 hours ago,2,2,4,Rarely / Never,3,Rarely / Never,0,0,0,60,3,Yes,No,7,Yes,65-74,6,Male,No,Yes,A,Giving Fair,1,3,Fair,6
+430631,No,2,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,67,1,Yes,No,8,Yes,25-34,2,Female,No,No,B,Taking Fair,32,40,Fair,4
+430632,Yes,1,More than 2 hours ago,2,1,2,Daily,1,Daily,0,0,0,0,2,Yes,No,6,No,25-34,2,Female,No,No,B,Giving Stingy,0,100,Stingy,3
+430633,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,70,1,Yes,No,8,Yes,25-34,2,Male,No,No,B,Giving Fair,40,74,Fair,0
+430643,Yes,1,More than 2 hours ago,2,5,0,Rarely / Never,3,Rarely / Never,0,0,0,39,4,Yes,Yes,6,No,25-34,2,Male,No,No,B,Taking Stingy,72,79,Stingy,5
+430644,Yes,1,Less than 2 hours ago,1,1,0,Rarely / Never,3,Rarely / Never,0,0,0,30,1,Yes,No,7,Yes,25-34,2,Female,No,No,A,Taking Fair,0,100,Fair,1
+430645,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,59,3,Yes,No,8,Yes,25-34,2,Female,Yes,Yes,B,Giving Stingy,0,100,Stingy,2
+430647,Yes,1,More than 2 hours ago,2,1,2,Daily,1,Daily,0,0,1,77,3,Yes,Yes,6,No,25-34,2,Female,No,No,B,Giving Fair,50,95,Fair,4
+430652,No,2,Less than 2 hours ago,1,2,2,Rarely / Never,3,Rarely / Never,0,0,0,26,3,Yes,No,8,Yes,18-24,1,Female,No,No,B,Giving Stingy,0,73,Stingy,4
+444324,No,2,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,55,6,No,No,7,No,45-54,4,Female,No,Yes,A,Taking Fair,37,36,Fair,4
+444327,Yes,1,More than 2 hours ago,2,1,0,Daily,1,Daily,0,1,0,64,2,No,No,7,Yes,18-24,1,Male,No,No,B,Giving Fair,39,75,Fair,2
+444328,Yes,1,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,70,1,No,No,8,Yes,18-24,1,Female,No,No,B,Taking Stingy,19,95,Stingy,1
+444329,No,2,More than 2 hours ago,2,5,0,Weekly,2,Weekly,0,0,1,63,1,Yes,No,7,Yes,18-24,1,Female,Yes,Yes,A,Giving Fair,25,64,Fair,6
+444331,Yes,1,More than 2 hours ago,2,0,0,Daily,1,Daily,0,0,1,65,2,No,No,5,Yes,18-24,1,Male,No,No,A,Taking Stingy,9,100,Stingy,1
+444338,No,2,Less than 2 hours ago,1,5,0,Rarely / Never,3,Rarely / Never,0,0,0,17,2,No,No,7,No,25-34,2,Male,No,No,B,Taking Fair,37,35,Fair,5
+444339,Yes,1,Less than 2 hours ago,1,3,1,Rarely / Never,3,Rarely / Never,0,0,0,85,4,Yes,No,8,No,25-34,2,Female,No,No,B,Giving Stingy,14,88,Stingy,4
+444340,Yes,1,More than 2 hours ago,2,2,4,Daily,1,Daily,0,0,0,35,2,No,Yes,5,Yes,45-54,4,Male,No,No,B,Giving Stingy,60,76,Stingy,6
+444341,No,2,More than 2 hours ago,2,4,4,Rarely / Never,3,Rarely / Never,0,0,0,48,1,No,No,8,Yes,45-54,4,Male,No,No,A,Taking Stingy,100,100,Stingy,8
+444344,Yes,1,Less than 2 hours ago,1,4,0,Weekly,2,Weekly,1,0,2,68,3,No,No,7,Yes,25-34,2,Female,Yes,No,A,Taking Fair,0,100,Fair,7
+444345,Yes,1,Less than 2 hours ago,1,4,0,Weekly,2,Weekly,1,0,0,70,4,No,No,6,Yes,25-34,2,Male,No,No,B,Giving Fair,25,82,Fair,5
+444347,Yes,1,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,0,1,Yes,No,6,No,45-54,4,Female,No,No,B,Giving Stingy,80,65,Stingy,3
+444348,No,2,More than 2 hours ago,2,6,3,Daily,1,Daily,0,0,1,26,3,Yes,Yes,6,Yes,45-54,4,Female,No,Yes,B,Taking Fair,50,50,Fair,10
+444349,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,0,1,Yes,Yes,8,Yes,25-34,2,Female,No,No,B,Giving Fair,50,50,Fair,2
+444351,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,83,2,Yes,No,7,Yes,45-54,4,Female,Yes,Yes,B,Taking Stingy,0,100,Stingy,2
+444361,No,2,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,76,1,No,No,8,Yes,45-54,4,Female,No,No,A,Giving Fair,32,31,Fair,2
+444391,No,2,More than 2 hours ago,2,0,3,Rarely / Never,3,Rarely / Never,0,0,0,79,4,Yes,No,7,Yes,25-34,2,Male,No,No,A,Taking Fair,19,73,Fair,3
+444392,Yes,1,More than 2 hours ago,2,2,2,Daily,1,Daily,0,0,0,68,3,Yes,No,7,Yes,25-34,2,Female,Yes,Yes,A,Giving Stingy,32,34,Stingy,4
+444393,No,2,More than 2 hours ago,2,3,3,Rarely / Never,3,Rarely / Never,0,0,0,74,3,No,No,7,No,35-44,3,Female,Yes,No,B,Giving Stingy,29,67,Stingy,6
+444394,No,2,Less than 2 hours ago,1,1,3,Rarely / Never,3,Rarely / Never,0,0,0,63,1,No,No,7,Yes,35-44,3,Female,No,No,B,Taking Stingy,95,96,Stingy,4
+444395,Yes,1,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,56,1,No,No,8,Yes,35-44,3,Male,Yes,No,A,Taking Fair,0,100,Fair,2
+444397,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,0,1,Yes,No,8,Yes,18-24,1,Male,No,No,B,Giving Stingy,30,55,Stingy,0
+444398,Yes,1,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,76,4,Yes,No,7,Yes,18-24,1,Male,No,No,A,Taking Stingy,30,23,Stingy,1
+444401,Yes,1,More than 2 hours ago,2,4,0,Rarely / Never,3,Rarely / Never,0,0,0,70,3,Yes,No,7,Yes,45-54,4,Female,No,No,A,Taking Fair,0,0,Fair,4
+444407,Yes,1,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,55,4,Yes,No,7,Yes,18-24,1,Female,No,No,A,Taking Fair,100,1,Fair,3
+444411,No,2,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,50,2,Yes,No,7,No,18-24,1,Female,No,No,B,Giving Fair,0,0,Fair,4
+444415,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,62,1,No,No,6,No,18-24,1,Male,No,No,B,Giving Fair,0,0,Fair,0
+444418,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,82,1,No,No,8,Yes,25-34,2,Male,No,No,B,Giving Stingy,27,82,Stingy,0
+444437,Yes,1,More than 2 hours ago,2,1,0,Daily,1,Daily,0,0,1,66,1,No,No,6,Yes,18-24,1,Male,No,No,A,Giving Fair,0,0,Fair,2
+444438,Yes,1,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,90,1,No,No,6,No,25-34,2,Male,No,No,B,Taking Fair,32,2,Fair,3
+444439,No,2,More than 2 hours ago,2,1,0,Daily,1,Daily,0,0,0,61,1,No,No,6,No,25-34,2,Female,No,No,B,Taking Stingy,24,100,Stingy,1
+444440,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,58,4,No,No,7,Yes,25-34,2,Female,No,Yes,A,Giving Stingy,30,96,Stingy,2
+444441,Yes,1,More than 2 hours ago,2,1,0,Weekly,2,Weekly,0,0,2,59,6,No,Yes,8,Yes,25-34,2,Male,No,No,A,Giving Stingy,33,100,Stingy,3
+444442,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,2,1,69,1,No,No,6,No,18-24,1,Female,No,No,A,Taking Fair,50,77,Fair,3
+444443,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,24,1,No,No,7,Yes,18-24,1,Male,No,No,B,Taking Stingy,33,79,Stingy,2
+444444,No,2,More than 2 hours ago,2,4,3,Rarely / Never,3,Rarely / Never,0,0,0,43,3,Yes,Yes,7,Yes,18-24,1,Female,No,No,B,Giving Fair,24,72,Fair,7
+444445,Yes,1,Less than 2 hours ago,1,1,4,Rarely / Never,3,Rarely / Never,0,0,0,26,2,No,No,7,Yes,25-34,2,Female,No,No,A,Taking Fair,16,7,Fair,5
+449834,Yes,1,Less than 2 hours ago,1,5,0,Rarely / Never,3,Rarely / Never,0,0,0,53,3,Yes,Yes,6,No,25-34,2,Male,Yes,Yes,B,Giving Fair,0,21,Fair,5
+449835,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,100,3,Yes,No,8,Yes,25-34,2,Female,Yes,No,B,Taking Stingy,100,100,Stingy,2
+449847,No,2,More than 2 hours ago,2,1,1,Daily,1,Daily,0,1,2,71,1,No,No,6,No,25-34,2,Female,No,No,B,Giving Stingy,32,76,Stingy,5
+449857,No,2,Less than 2 hours ago,1,3,0,Daily,1,Daily,0,0,1,67,3,Yes,No,8,No,18-24,1,Male,No,No,B,Taking Fair,33,65,Fair,4
+449858,Yes,1,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,4,67,3,Yes,No,8,No,18-24,1,Female,Yes,Yes,A,Taking Stingy,50,100,Stingy,4
+449859,Yes,1,Less than 2 hours ago,1,5,0,Rarely / Never,3,Rarely / Never,0,0,0,77,2,No,No,4,No,45-54,4,Female,No,No,A,Taking Fair,50,47,Fair,5
+449866,Yes,1,More than 2 hours ago,2,2,0,Weekly,2,Weekly,0,0,4,58,4,No,No,7,No,25-34,2,Female,Yes,Yes,A,Giving Fair,16,82,Fair,6
+449875,No,2,More than 2 hours ago,2,0,NA,Rarely / Never,3,Rarely / Never,0,0,0,32,3,Yes,No,8,No,25-34,2,Male,No,No,B,Taking Stingy,21,89,Stingy,NA
+449876,No,2,More than 2 hours ago,2,1,1,Weekly,2,Weekly,0,0,1,68,2,Yes,No,7,No,25-34,2,Female,No,Yes,B,Giving Stingy,100,100,Stingy,3
+449877,Yes,1,Less than 2 hours ago,1,3,1,Rarely / Never,3,Rarely / Never,0,0,0,67,2,Yes,No,6,No,25-34,2,Male,No,No,A,Taking Stingy,0,100,Stingy,4
+449878,Yes,1,More than 2 hours ago,2,3,1,Rarely / Never,3,Rarely / Never,0,0,0,80,2,Yes,No,6,No,25-34,2,Female,No,No,B,Giving Stingy,1,100,Stingy,4
+449882,Yes,1,More than 2 hours ago,2,1,1,Daily,1,Daily,0,0,0,63,2,No,No,6,Yes,18-24,1,Male,No,No,A,Giving Fair,30,73,Fair,2
+449884,No,2,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,87,1,No,No,8,Yes,25-34,2,Female,No,No,A,Giving Stingy,50,70,Stingy,1
+449885,Yes,1,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,100,1,No,No,8,Yes,25-34,2,Male,No,No,A,Taking Fair,50,51,Fair,1
+449889,Yes,1,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,77,3,Yes,No,7,Yes,25-34,2,Male,No,No,A,Taking Stingy,85,89,Stingy,3
+449890,No,2,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,35,5,Yes,No,7,No,25-34,2,Female,Yes,No,A,Giving Fair,18,28,Fair,2
+449892,No,2,More than 2 hours ago,2,5,0,Weekly,2,Weekly,1,0,1,70,6,Yes,No,7,No,25-34,2,Male,No,No,A,Taking Fair,18,67,Fair,7
+449895,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,70,2,Yes,No,7,Yes,25-34,2,Male,Yes,Yes,B,Giving Stingy,88,88,Stingy,1
+449897,No,2,Less than 2 hours ago,1,4,3,Daily,1,Daily,0,1,0,54,4,Yes,No,7,No,18-24,1,Female,No,No,B,Giving Fair,14,13,Fair,8
+449906,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,73,2,Yes,No,7,No,25-34,2,Female,No,No,B,Taking Stingy,0,100,Stingy,2
+449907,Yes,1,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,21,1,Yes,No,10,Yes,45-54,4,Male,No,No,A,Taking Fair,30,28,Fair,2
+449908,Yes,1,Less than 2 hours ago,1,2,0,Weekly,2,Weekly,0,0,3,34,5,Yes,No,7,Yes,25-34,2,Male,Yes,No,A,Giving Stingy,0,100,Stingy,5
+449909,No,2,More than 2 hours ago,2,0,0,Weekly,2,Weekly,0,0,1,69,1,No,Yes,5,Yes,35-44,3,Male,No,No,A,Giving Fair,0,100,Fair,1
+449915,Yes,1,More than 2 hours ago,2,2,5,Rarely / Never,3,Rarely / Never,0,0,0,74,2,Yes,No,7,Yes,55-64,5,Female,No,No,A,Giving Fair,75,60,Fair,7
+449916,Yes,1,Less than 2 hours ago,1,1,0,Weekly,2,Weekly,0,1,1,55,3,Yes,No,5,No,35-44,3,Male,Yes,No,B,Giving Stingy,50,50,Stingy,3
+449917,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,78,2,No,No,7,Yes,35-44,3,Female,No,No,A,Taking Stingy,5,100,Stingy,1
+449921,Yes,1,More than 2 hours ago,2,0,2,Rarely / Never,3,Rarely / Never,0,0,0,78,1,Yes,No,8,Yes,18-24,1,Female,No,No,A,Taking Stingy,0,71,Stingy,2
+449922,Yes,1,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,74,2,No,No,8,No,25-34,2,Male,No,No,A,Taking Fair,15,18,Fair,4
+449923,No,2,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,39,3,Yes,No,8,No,18-24,1,Male,No,No,A,Giving Fair,0,35,Fair,4
+449926,No,2,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,28,3,No,Yes,7,Yes,55-64,5,Female,No,No,A,Taking Stingy,85,87,Stingy,3
+449927,Yes,1,More than 2 hours ago,2,3,0,Weekly,2,Weekly,0,0,3,86,5,Yes,Yes,6,Yes,25-34,2,Male,Yes,Yes,A,Taking Fair,8,13,Fair,6
+449928,No,2,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,51,4,No,No,7,No,18-24,1,Female,No,No,B,Giving Stingy,84,100,Stingy,4
+449929,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,20,1,Yes,No,7,Yes,25-34,2,Female,No,No,A,Giving Fair,0,32,Fair,0
+449934,No,2,More than 2 hours ago,2,2,2,Daily,1,Daily,0,0,0,59,1,No,No,8,Yes,25-34,2,Female,Yes,No,A,Taking Stingy,72,100,Stingy,4
+449935,No,2,More than 2 hours ago,2,6,0,Rarely / Never,3,Rarely / Never,0,0,0,77,4,No,No,6,Yes,25-34,2,Male,No,No,B,Taking Fair,0,0,Fair,6
+449936,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,70,1,No,No,7,Yes,18-24,1,Female,Yes,No,A,Giving Stingy,0,50,Stingy,1
+449937,Yes,1,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,35,2,Yes,No,7,No,18-24,1,Male,No,No,B,Taking Stingy,15,76,Stingy,3
+449938,Yes,1,More than 2 hours ago,2,0,0,Daily,1,Daily,0,0,1,65,5,Yes,No,7,Yes,25-34,2,Male,No,Yes,B,Giving Fair,0,0,Fair,1
+449939,Yes,1,More than 2 hours ago,2,3,1,Rarely / Never,3,Rarely / Never,0,0,0,75,1,Yes,Yes,8,Yes,18-24,1,Male,No,No,A,Giving Stingy,0,100,Stingy,4
+449940,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,68,1,No,No,7,Yes,18-24,1,Male,No,No,A,Taking Fair,18,73,Fair,0
+449941,No,2,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,61,1,No,No,6,Yes,18-24,1,Female,No,No,A,Giving Stingy,23,81,Stingy,1
+456503,No,2,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,72,1,No,No,8,Yes,25-34,2,Male,No,No,A,Giving Fair,50,50,Fair,0
+456506,Yes,1,Less than 2 hours ago,1,3,1,Rarely / Never,3,Rarely / Never,0,0,0,61,3,Yes,No,7,No,45-54,4,Female,No,No,B,Taking Fair,0,50,Fair,4
+456511,Yes,1,More than 2 hours ago,2,0,0,Daily,1,Daily,0,0,1,50,1,No,No,8,Yes,25-34,2,Female,Yes,No,A,Taking Stingy,23,74,Stingy,1
+456512,No,2,More than 2 hours ago,2,0,1,Rarely / Never,3,Rarely / Never,0,0,0,0,1,Yes,No,8,No,25-34,2,Female,No,No,B,Taking Stingy,50,0,Stingy,1
+456524,Yes,1,Less than 2 hours ago,1,3,0,Weekly,2,Weekly,0,0,2,67,2,No,No,8,No,18-24,1,Male,No,No,A,Giving Fair,3,0,Fair,5
+456525,Yes,1,More than 2 hours ago,2,0,1,Daily,1,Daily,0,1,2,12,1,No,No,6,No,18-24,1,Male,No,No,B,Taking Fair,9,100,Fair,4
+456536,Yes,1,Less than 2 hours ago,1,0,2,Rarely / Never,3,Rarely / Never,0,0,0,11,1,No,No,7,Yes,18-24,1,Female,No,No,B,Giving Stingy,50,50,Stingy,2
+456542,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,75,1,Yes,No,8,No,25-34,2,Female,No,No,B,Giving Stingy,31,67,Stingy,1
+456545,No,2,More than 2 hours ago,2,1,1,Rarely / Never,3,Rarely / Never,0,0,0,78,3,No,No,8,No,18-24,1,Female,No,No,A,Taking Fair,67,69,Fair,2
+456551,Yes,1,Less than 2 hours ago,1,4,1,Rarely / Never,3,Rarely / Never,0,0,0,68,2,Yes,No,8,Yes,25-34,2,Male,No,No,A,Taking Stingy,0,100,Stingy,5
+456552,No,2,Less than 2 hours ago,1,0,2,Rarely / Never,3,Rarely / Never,0,0,0,50,1,Yes,No,8,Yes,25-34,2,Female,No,Yes,B,Giving Fair,17,28,Fair,2
+456558,No,2,Less than 2 hours ago,1,3,0,Rarely / Never,3,Rarely / Never,0,0,0,58,2,Yes,No,6,No,35-44,3,Prefer not to say,No,No,A,Giving Stingy,50,100,Stingy,3
+456565,Yes,1,Less than 2 hours ago,1,1,1,Rarely / Never,3,Rarely / Never,0,0,0,56,1,Yes,No,6,Yes,25-34,2,Female,No,No,B,Taking Stingy,10,100,Stingy,2
+456566,No,2,Less than 2 hours ago,1,0,2,Rarely / Never,3,Rarely / Never,0,0,0,22,3,No,No,6,Yes,25-34,2,Male,No,No,B,Giving Fair,18,100,Fair,2
+456572,Yes,1,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,70,5,Yes,No,9,Yes,25-34,2,Male,No,No,B,Taking Fair,68,0,Fair,3
+456573,No,2,More than 2 hours ago,2,2,4,Weekly,2,Weekly,0,0,1,100,4,Yes,No,8,No,18-24,1,Female,No,No,A,Giving Stingy,100,0,Stingy,7
+456576,No,2,More than 2 hours ago,2,0,6,Rarely / Never,3,Rarely / Never,0,0,0,59,4,Yes,No,9,Yes,25-34,2,Female,No,No,B,Taking Fair,2,78,Fair,6
+456577,No,2,Less than 2 hours ago,1,2,1,Rarely / Never,3,Rarely / Never,0,0,0,50,5,Yes,No,7,Yes,25-34,2,Male,No,No,A,Giving Fair,22,23,Fair,3
+456584,No,2,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,62,1,Yes,No,7,No,45-54,4,Female,No,No,A,Taking Stingy,50,25,Stingy,4
+456600,Yes,1,Less than 2 hours ago,1,0,1,Weekly,2,Weekly,0,0,1,27,1,Yes,No,7,No,25-34,2,Female,No,Yes,A,Taking Fair,28,31,Fair,2
+456603,Yes,1,More than 2 hours ago,2,1,5,Weekly,2,Weekly,0,0,3,33,3,Yes,Yes,7,Yes,18-24,1,Male,Yes,No,A,Giving Stingy,17,78,Stingy,9
+456604,Yes,1,More than 2 hours ago,2,1,4,Rarely / Never,3,Rarely / Never,0,0,0,61,3,No,No,7,Yes,18-24,1,Male,No,No,A,Giving Fair,16,69,Fair,5
+456611,No,2,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,29,1,No,No,8,Yes,55-64,5,Female,No,No,A,Giving Fair,50,50,Fair,3
+456613,No,2,More than 2 hours ago,2,3,0,Rarely / Never,3,Rarely / Never,0,0,0,63,1,No,No,6,No,65-74,6,Female,No,No,B,Taking Fair,41,67,Fair,3
+456616,Yes,1,Less than 2 hours ago,1,2,2,Rarely / Never,3,Rarely / Never,0,0,0,27,1,Yes,No,8,No,25-34,2,Female,No,Yes,A,Taking Fair,0,28,Fair,4
+456618,Yes,1,Less than 2 hours ago,1,1,1,Rarely / Never,3,Rarely / Never,0,0,0,69,2,No,No,9,No,18-24,1,Female,No,No,B,Taking Stingy,16,86,Stingy,2
+456621,No,2,Less than 2 hours ago,1,2,0,Rarely / Never,3,Rarely / Never,0,0,0,63,1,Yes,No,7,No,18-24,1,Male,No,No,B,Taking Stingy,0,100,Stingy,2
+456625,Yes,1,More than 2 hours ago,2,1,3,Rarely / Never,3,Rarely / Never,0,0,0,15,1,Yes,No,7,No,45-54,4,Male,No,No,B,Giving Stingy,0,76,Stingy,4
+456635,Yes,1,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,71,5,Yes,No,7,No,18-24,1,Female,No,No,A,Giving Fair,10,7,Fair,4
+456637,No,2,Less than 2 hours ago,1,4,0,Rarely / Never,3,Rarely / Never,0,0,0,55,4,Yes,No,8,No,25-34,2,Male,Yes,No,B,Giving Fair,31,68,Fair,4
+456649,No,2,More than 2 hours ago,2,3,0,Weekly,2,Weekly,0,0,3,72,5,Yes,No,9,Yes,25-34,2,Male,No,No,A,Giving Stingy,0,98,Stingy,6
+456656,Yes,1,More than 2 hours ago,2,2,0,Rarely / Never,3,Rarely / Never,0,0,0,61,1,Yes,No,7,Yes,25-34,2,Male,No,No,B,Taking Stingy,35,73,Stingy,2
+456658,No,2,More than 2 hours ago,2,2,1,Weekly,2,Weekly,0,0,3,61,1,No,No,7,No,25-34,2,Female,No,No,B,Giving Stingy,28,85,Stingy,6
+456666,No,2,More than 2 hours ago,2,3,4,Rarely / Never,3,Rarely / Never,0,0,0,64,3,Yes,No,7,No,25-34,2,Male,No,No,B,Giving Fair,50,50,Fair,7
+456671,No,2,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,57,1,Yes,No,9,Yes,25-34,2,Male,No,No,B,Taking Stingy,91,12,Stingy,1
+456673,Yes,1,More than 2 hours ago,2,1,0,Rarely / Never,3,Rarely / Never,0,0,0,35,1,Yes,No,7,Yes,18-24,1,Female,No,No,B,Taking Stingy,78,79,Stingy,1
+456691,Yes,1,Less than 2 hours ago,1,1,1,Rarely / Never,3,Rarely / Never,0,0,0,88,2,Yes,No,8,Yes,25-34,2,Female,No,No,B,Giving Stingy,3,100,Stingy,2
+456751,Yes,1,More than 2 hours ago,2,4,0,Rarely / Never,3,Rarely / Never,0,0,0,62,1,No,No,8,Yes,25-34,2,Female,No,No,A,Giving Fair,38,34,Fair,4
+456755,No,2,Less than 2 hours ago,1,0,0,Weekly,2,Weekly,0,0,7,51,1,No,No,6,No,18-24,1,Male,No,No,B,Giving Fair,0,19,Fair,7
+456766,No,2,More than 2 hours ago,2,1,2,Daily,1,Daily,0,0,1,79,1,Yes,No,7,Yes,25-34,2,Female,No,No,B,Giving Stingy,63,100,Stingy,4
+456779,No,2,More than 2 hours ago,2,1,1,Weekly,2,Weekly,1,0,3,100,1,No,No,7,Yes,35-44,3,Male,No,No,B,Taking Fair,0,100,Fair,6
+456780,Yes,1,More than 2 hours ago,2,0,0,Rarely / Never,3,Rarely / Never,0,0,0,100,1,No,No,6,No,18-24,1,Female,Yes,No,A,Taking Stingy,100,0,Stingy,0
+456793,Yes,1,Less than 2 hours ago,1,0,1,Weekly,2,Weekly,0,0,1,4,2,No,No,6,Yes,18-24,1,Prefer not to say,No,No,A,Taking Fair,31,63,Fair,2
+456797,Yes,1,More than 2 hours ago,2,4,0,Weekly,2,Weekly,0,0,1,57,1,No,No,6,No,35-44,3,Female,Yes,No,B,Taking Stingy,22,72,Stingy,5
+456798,Yes,1,More than 2 hours ago,2,1,2,Rarely / Never,3,Rarely / Never,0,0,0,98,1,No,No,7,Yes,25-34,2,Female,Yes,No,B,Giving Stingy,53,52,Stingy,3
+456800,No,2,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,91,1,Yes,No,6,No,25-34,2,Male,No,No,A,Giving Fair,16,76,Fair,3
+456809,No,2,Less than 2 hours ago,1,2,0,Weekly,2,Weekly,1,0,0,65,2,Yes,No,8,Yes,25-34,2,Male,No,No,B,Giving Stingy,100,0,Stingy,3
+456810,Yes,1,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,78,2,No,No,8,Yes,25-34,2,Female,No,No,B,Taking Fair,50,73,Fair,4
+456812,No,2,More than 2 hours ago,2,2,1,Rarely / Never,3,Rarely / Never,0,0,0,64,5,Yes,No,7,Yes,25-34,2,Male,No,No,B,Giving Fair,31,62,Fair,3
+456814,Yes,1,More than 2 hours ago,2,2,2,Rarely / Never,3,Rarely / Never,0,0,0,53,1,No,No,7,Yes,25-34,2,Female,No,No,A,Taking Stingy,64,27,Stingy,4
+456820,Yes,1,More than 2 hours ago,2,3,2,Daily,1,Daily,0,0,1,38,2,No,No,7,Yes,25-34,2,Male,No,No,B,Giving Stingy,100,76,Stingy,6

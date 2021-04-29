@@ -1,1 +1,1 @@
-# CaffeineParanoia
+# This repository contains 3 R files used to analyse data in my dissertation about the relationship between caffeine in a modified dictator game. DemographicInfo.R contains the code used to summaries participant demographics (Table 1). ResultsSummary.R contains code used to summaries results (Table 2). models.R contains the code used to analyse data, as well as some code to summarise participant demographic for a variable.
